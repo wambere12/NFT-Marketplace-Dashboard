@@ -1,0 +1,6 @@
+{
+  "name": "NFTMarketplace dApp & Smart Contract Terminal",
+  "description": "Interactive Web3 NFT Marketplace and EVM execution terminal for the Solidity NFTMarketplace contract, featuring timed English auctions, fixed-price sales, EIP-2981 creator royalties, and pull-payment escrow withdrawals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
